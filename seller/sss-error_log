@@ -1,0 +1,60 @@
+[07-Oct-2021 06:55:28 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home/rlzsj57d4d4a/public_html/application/libraries/google-api-php-client/service/Google_Utils.php on line 58
+[07-Oct-2021 07:07:13 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home/rlzsj57d4d4a/public_html/application/libraries/google-api-php-client/service/Google_Utils.php on line 58
+[26-Oct-2021 15:56:22 UTC] PHP Parse error:  Unclosed '{' on line 8 in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php on line 63
+[26-Oct-2021 15:56:25 UTC] PHP Parse error:  Unclosed '{' on line 8 in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php on line 63
+[26-Oct-2021 15:56:55 UTC] PHP Warning:  include(include/header.php): Failed to open stream: No such file or directory in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php on line 3
+[26-Oct-2021 15:56:55 UTC] PHP Warning:  include(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php on line 3
+[26-Oct-2021 15:56:55 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php on line 9
+[26-Oct-2021 15:56:56 UTC] PHP Warning:  include(include/header.php): Failed to open stream: No such file or directory in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php on line 3
+[26-Oct-2021 15:56:56 UTC] PHP Warning:  include(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php on line 3
+[26-Oct-2021 15:56:56 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php on line 9
+[26-Oct-2021 15:57:02 UTC] PHP Warning:  include(include/header.php): Failed to open stream: No such file or directory in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php on line 3
+[26-Oct-2021 15:57:02 UTC] PHP Warning:  include(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php on line 3
+[26-Oct-2021 15:57:02 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php on line 9
+[26-Oct-2021 15:57:03 UTC] PHP Warning:  include(include/header.php): Failed to open stream: No such file or directory in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php on line 3
+[26-Oct-2021 15:57:03 UTC] PHP Warning:  include(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php on line 3
+[26-Oct-2021 15:57:03 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php on line 9
+[26-Oct-2021 15:57:05 UTC] PHP Warning:  include(include/header.php): Failed to open stream: No such file or directory in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php on line 3
+[26-Oct-2021 15:57:05 UTC] PHP Warning:  include(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php on line 3
+[26-Oct-2021 15:57:05 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php on line 9
+[26-Oct-2021 15:57:05 UTC] PHP Warning:  include(include/header.php): Failed to open stream: No such file or directory in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php on line 3
+[26-Oct-2021 15:57:05 UTC] PHP Warning:  include(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php on line 3
+[26-Oct-2021 15:57:05 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php on line 9
+[26-Oct-2021 15:57:13 UTC] PHP Warning:  include(include/header.php): Failed to open stream: No such file or directory in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php on line 3
+[26-Oct-2021 15:57:13 UTC] PHP Warning:  include(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php on line 3
+[26-Oct-2021 15:57:13 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php on line 9
+[26-Oct-2021 15:57:13 UTC] PHP Warning:  include(include/header.php): Failed to open stream: No such file or directory in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php on line 3
+[26-Oct-2021 15:57:13 UTC] PHP Warning:  include(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php on line 3
+[26-Oct-2021 15:57:13 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rlzsj57d4d4a/public_html/seller.becarto.in/index.php on line 9
+[26-Oct-2021 16:11:44 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/rlzsj57d4d4a/public_html/seller.becarto.in/login.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rlzsj57d4d4a/public_html/seller.becarto.in/login.php on line 2
+[26-Oct-2021 16:11:48 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/rlzsj57d4d4a/public_html/seller.becarto.in/login.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rlzsj57d4d4a/public_html/seller.becarto.in/login.php on line 2

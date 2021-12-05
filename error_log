@@ -1,0 +1,2 @@
+[07-Oct-2021 06:55:28 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home/rlzsj57d4d4a/public_html/application/libraries/google-api-php-client/service/Google_Utils.php on line 58
+[07-Oct-2021 07:07:13 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home/rlzsj57d4d4a/public_html/application/libraries/google-api-php-client/service/Google_Utils.php on line 58
